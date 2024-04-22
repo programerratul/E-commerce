@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-shadow: none;
+}
+.navbar-brand{
+    color: #AA7466;
+    font-size: 20px;
+}
+.nav-link{
+    font-size: 15px;
+    transition: 0.5s ease;
+}
+.nav-link:hover{
+    background-color: aquamarine;
+    border-radius: 8px;
+}
+header{
+    background-color: #B1E2FF;
+}
+.first{
+    background-color: #8CFBF2;
+    border-radius: 5px;
+}
+.navbar-brand{
+    font-weight: bold;
+}
